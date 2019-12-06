@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text 
+Give me that filet o' fish! 
 Use the left arrow to go back!
